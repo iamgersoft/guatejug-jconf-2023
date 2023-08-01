@@ -8,8 +8,8 @@
    version="1.1"
    id="svg5"
    inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
-   sodipodi:docname="diploma-sponsor-champion-base.svg"
-   inkscape:export-filename="pablo-roberto.pdf"
+   sodipodi:docname="sponsor-wunderman.svg"
+   inkscape:export-filename="sponsors-wunderman.pdf"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -28,22 +28,22 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="1"
-     inkscape:cx="412.5"
-     inkscape:cy="157.5"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="330.21887"
+     inkscape:cy="260.9224"
      inkscape:window-width="1918"
      inkscape:window-height="1053"
      inkscape:window-x="0"
      inkscape:window-y="386"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer6" />
+     inkscape:current-layer="layer2" />
   <defs
      id="defs2">
     <linearGradient
        inkscape:collect="always"
        id="linearGradient127667">
       <stop
-         style="stop-color:#2a7fc2;stop-opacity:1;"
+         style="stop-color:#f09d33;stop-opacity:1;"
          offset="0.23370352"
          id="stop127663" />
       <stop
@@ -154,7 +154,7 @@
          transform="matrix(0.25195938,0,0,0.25195753,-26.413998,17.64345)"><tspan
            x="537.42987"
            y="188.79239"
-           id="tspan146145">Patrocinador Champion</tspan></text>
+           id="tspan1517">Patrocinador Champion</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;line-height:1.2;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;opacity:1;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.229;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
@@ -192,18 +192,18 @@
            y="31.171921">otorga el presente reconocimiento a:</tspan></text>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1.2;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;opacity:1;fill:#2a7fc2;fill-opacity:1;stroke:none;stroke-width:0.229;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.64444px;line-height:1.2;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;opacity:1;fill:#f09d33;fill-opacity:1;stroke:none;stroke-width:0.229;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
          x="109.20573"
          y="15.055916"
          id="text19022"
          sodipodi:insensitive="true"><tspan
            sodipodi:role="line"
            id="tspan19020"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444px;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#2a7fc2;fill-opacity:1;stroke:none;stroke-width:0.229"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444px;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#f09d33;fill-opacity:1;stroke:none;stroke-width:0.229"
            x="109.20573"
            y="15.055916">La Comunidad de Usuarios Java Guatemala – GuateJUG,</tspan><tspan
            sodipodi:role="line"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444px;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#2a7fc2;fill-opacity:1;stroke:none;stroke-width:0.229"
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444px;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#f09d33;fill-opacity:1;stroke:none;stroke-width:0.229"
            x="109.20573"
            y="21.829245"
            id="tspan21460">Comité Organizador del JConf Guatemala 2023</tspan></text>
@@ -212,8 +212,7 @@
        inkscape:label="header"
        inkscape:groupmode="layer"
        id="layer1"
-       transform="scale(0.78947367)"
-       sodipodi:insensitive="true">
+       transform="scale(0.78947367)">
       <image
          width="76"
          height="133.98801"
@@ -382,7 +381,7 @@
              style="fill:#a0a2a4;stroke-width:0.264583"
              id="path1701" />
           <polygon
-             points="488.32,325.09 488.33,325.1 "
+             points="488.33,325.1 488.32,325.09 "
              style="fill:#a0a2a4"
              id="polygon1703"
              transform="matrix(0.26458333,0,0,0.26458333,123.92647,111.70655)" />
@@ -423,7 +422,7 @@
              style="fill:#b2842d;stroke-width:0.264583"
              id="path1721" />
           <polygon
-             points="347.81,69.42 347.81,69.41 "
+             points="347.81,69.41 347.81,69.42 "
              style="fill:#089347"
              id="polygon1723"
              transform="matrix(0.26458333,0,0,0.26458333,123.92647,111.70655)" />

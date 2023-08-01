@@ -8,8 +8,8 @@
    version="1.1"
    id="svg5"
    inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
-   sodipodi:docname="diploma-sponsor-champion-base.svg"
-   inkscape:export-filename="pablo-roberto.pdf"
+   sodipodi:docname="voluntarios-base.svg"
+   inkscape:export-filename="voluntarios-ejemplo.pdf"
    inkscape:export-xdpi="96"
    inkscape:export-ydpi="96"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
@@ -28,29 +28,17 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="0.70710678"
-     inkscape:cx="331.63308"
-     inkscape:cy="499.92449"
+     inkscape:zoom="1"
+     inkscape:cx="376"
+     inkscape:cy="217.5"
      inkscape:window-width="1918"
      inkscape:window-height="1053"
      inkscape:window-x="0"
      inkscape:window-y="386"
      inkscape:window-maximized="1"
-     inkscape:current-layer="g111655" />
+     inkscape:current-layer="layer2" />
   <defs
      id="defs2">
-    <linearGradient
-       inkscape:collect="always"
-       id="linearGradient127667">
-      <stop
-         style="stop-color:#2a7fc2;stop-opacity:1;"
-         offset="0.23370352"
-         id="stop127663" />
-      <stop
-         style="stop-color:#f09d33;stop-opacity:0.54509807;"
-         offset="1"
-         id="stop127665" />
-    </linearGradient>
     <linearGradient
        inkscape:collect="always"
        id="linearGradient93330">
@@ -59,7 +47,7 @@
          offset="0.23370352"
          id="stop93326" />
       <stop
-         style="stop-color:#f09d33;stop-opacity:0.54509807;"
+         style="stop-color:#2a7fc2;stop-opacity:0.54509807;"
          offset="1"
          id="stop93328" />
     </linearGradient>
@@ -106,7 +94,7 @@
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient127667"
+       xlink:href="#linearGradient93330"
        id="linearGradient38752"
        x1="71.452309"
        y1="11.99537"
@@ -179,14 +167,14 @@
            y="83.399498">Ciudad de Guatemala, 5 de agosto de 2023.</tspan></text>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.4023px;line-height:1.2;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;white-space:pre;inline-size:536.765;display:inline;opacity:1;fill:#f09d33;fill-opacity:1;stroke:none;stroke-width:0.90888;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.4023px;line-height:1.2;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;white-space:pre;inline-size:536.765;display:inline;opacity:1;fill:#2a7fc2;fill-opacity:1;stroke:none;stroke-width:0.90888;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
          x="537.42987"
          y="188.79239"
          id="text111503"
          transform="matrix(0.25195938,0,0,0.25195753,-26.413998,17.64345)"><tspan
            x="537.42987"
            y="188.79239"
-           id="tspan141666">Patrocinador Champion</tspan></text>
+           id="tspan6130">Equipo de Voluntarios</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;line-height:1.2;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;opacity:1;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.229;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
@@ -198,18 +186,18 @@
            id="tspan111505"
            style="font-size:4.23333px;fill:#333333;fill-opacity:1;stroke-width:0.229"
            x="109.0858"
-           y="54.659653">por su valiosa contribución para el evento como:</tspan></text>
+           y="54.659653">por su valioso apoyo durante el evento como parte del:</tspan></text>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.2889px;line-height:1.2;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;display:inline;opacity:1;fill:#f09d33;fill-opacity:1;stroke:none;stroke-width:0.229001;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.2889px;line-height:1.2;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.229001;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
          x="109.05615"
          y="45.783169"
          id="text111511"><tspan
            sodipodi:role="line"
            id="tspan111509"
-           style="font-size:11.2889px;fill:#f09d33;fill-opacity:1;stroke-width:0.229001"
+           style="font-size:11.2889px;fill:#2a7fc2;fill-opacity:1;stroke-width:0.229001"
            x="109.05615"
-           y="45.783169">MangoChango</tspan></text>
+           y="45.783169">_________________________</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444px;line-height:1.2;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;opacity:1;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.229;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
@@ -684,14 +672,14 @@
            y="83.399498">Ciudad de Guatemala, 5 de agosto de 2023.</tspan></text>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.4023px;line-height:1.2;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;white-space:pre;inline-size:536.765;display:inline;opacity:1;fill:#ef9d34;fill-opacity:1;stroke:none;stroke-width:0.90888;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:22.4023px;line-height:1.2;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;white-space:pre;inline-size:536.765;display:inline;opacity:1;fill:#2a7fc2;fill-opacity:1;stroke:none;stroke-width:0.90888;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
          x="537.42987"
          y="188.79239"
          id="text43879"
          transform="matrix(0.25195938,0,0,0.25195753,-26.413998,17.64345)"><tspan
            x="537.42987"
            y="188.79239"
-           id="tspan141668">Patrocinador Champion</tspan></text>
+           id="tspan6132">Equipo de Voluntarios</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:4.23333px;line-height:1.2;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;opacity:1;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.229;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
@@ -703,18 +691,18 @@
            id="tspan28961"
            style="font-size:4.23333px;fill:#333333;fill-opacity:1;stroke-width:0.229"
            x="109.0858"
-           y="54.659653">por su valiosa contribución para el evento como:</tspan></text>
+           y="54.659653">por su valioso apoyo durante el evento como parte del:</tspan></text>
       <text
          xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.2889px;line-height:1.2;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;display:inline;opacity:1;fill:#f09d33;fill-opacity:1;stroke:none;stroke-width:0.229001;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.2889px;line-height:1.2;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;display:inline;opacity:1;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.229001;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
          x="109.05615"
          y="45.783169"
          id="text39185"><tspan
            sodipodi:role="line"
            id="tspan39183"
-           style="font-size:11.2889px;fill:#f09d33;fill-opacity:1;stroke-width:0.229001"
+           style="font-size:11.2889px;fill:#2a7fc2;fill-opacity:1;stroke-width:0.229001"
            x="109.05615"
-           y="45.783169">INTECAP</tspan></text>
+           y="45.783169">Jimmy Morales</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:5.64444px;line-height:1.2;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;opacity:1;fill:#333333;fill-opacity:1;stroke:none;stroke-width:0.229;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
@@ -760,10 +748,13 @@
          x="0"
          y="10.513336"
          style="display:inline" />
-      <path
+      <rect
+         style="display:inline;fill:url(#linearGradient38752);fill-opacity:1;fill-rule:evenodd;stroke-width:0.292983;stroke-dasharray:none"
          id="rect13929"
-         style="display:inline;fill:url(#linearGradient38752);fill-rule:evenodd;stroke-width:0.292983"
-         d="M 4.0533334e-7,-3.9941579e-6 H 76 V 176.69999 H 4.0533334e-7 Z" />
+         width="76"
+         height="176.7"
+         x="4.0533334e-07"
+         y="-3.9941579e-06" />
       <g
          inkscape:groupmode="layer"
          id="layer4"
