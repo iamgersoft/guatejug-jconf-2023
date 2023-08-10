@@ -1,5 +1,5 @@
 #/bin/bash
-GJ_FOLDER=/home/gersoft/Documents/Projects/guatejug/guatejug-jconf-2023/Artes/charlas
+GJ_FOLDER=/path/to/repo/guatejug-jconf-2023/Artes/charlas
 for GJ_FILE in ${GJ_FOLDER}/*
 do
     printf "${GJ_FILE}\n"
